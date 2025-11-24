@@ -36,7 +36,7 @@ def set_bg(image_path):
         unsafe_allow_html=True
     )
 
-set_bg(r"D:\DMQL\Project\DATASET\zip\Background.png")
+set_bg(r"Background.png")
 
 # -------------------------------------------------------
 # LOAD DATA
